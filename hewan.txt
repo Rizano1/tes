@@ -1,3 +1,5 @@
 nama-nama hewan :
 - serigala
 - kelinci
+- kucing 
+- angsa
